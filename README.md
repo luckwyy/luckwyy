@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luckywyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 **luckywyy/luckywyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+I'm Wang Yang, someone who like coding...(maybe a little stupid, but honest). Here is my GitHub [page](https://github.com/luckywyy)
+
+🌱 I’m currently learning Java.
+
+⚡ I studied at HSU and YNU, once.
+
+👯 I’m looking to collaborate on a funny team to produce the nicest product(code is art!).
+
