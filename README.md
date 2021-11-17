@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 I'm Wang Yang, someone who like coding...(maybe a little stupid, but honest). Here is my GitHub [page](https://github.com/luckywyy)
 
-🌱 I’m currently learning Java.
-
-⚡ I studied at HSU and YNU, once.
-
-👯 I’m looking to collaborate on a funny team to produce the nicest product(code is art!).
+- 🌱 I’m currently learning Java.
+- ⚡ I studied at HSU and YNU, once.
+- 👯 I’m looking to collaborate on a funny team to produce the nicest product(code is art!).
 
