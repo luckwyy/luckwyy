@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Wang Yang, someone who like coding...(maybe a little stupid, but honest). Here is my GitHub [page](https://github.com/luckywyy)
+I'm Wang Yang, someone who like coding... Here is my GitHub [page](https://github.com/luckywyy)
 
 - 🌱 I’m currently learning Java.
 - ⚡ I studied at HSU and YNU, once.
