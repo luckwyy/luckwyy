@@ -22,5 +22,5 @@ I'm Wang Yang, someone who like coding... Here is my GitHub [page](https://githu
 
 - 🌱 I’m currently learning Java.
 - ⚡ I studied at HSU and YNU, once.
-- 👯 I’m looking to collaborate on a funny team to code the nicest product(code is art!).
+- 👯 I’m looking to collaborate on a funny team to code the nicest product(code is art.).
 
