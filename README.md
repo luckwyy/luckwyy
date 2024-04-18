@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Wang Yang, programmer (also software engineer)... Here is my GitHub [page](https://github.com/luckywyy)
+I'm Wang Yang, programmer... my website [luckwyy.github.io/](https://luckwyy.github.io/).
 
-- 🌱 I’m currently learning Java, Perl, Linux.
+- 🌱 I’m currently learning Perl, C++, Linux.
 - ⚡ I studied at HSU and YNU, once.
 - 👯 I’m looking to collaborate on a funny team to code the nicest product(coding is art.).
-
+- 🤔 I’m studying C++ and looking for job opportunities in C++ currently.
